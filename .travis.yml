@@ -1,0 +1,3 @@
+lenguage: java
+install: true
+script: mvn install
