@@ -3,6 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+package com.mycompany.esercizio;
 
 import com.mycompany.esercizio.NewClass;
 import static com.mycompany.esercizio.NewClass.metodo;
